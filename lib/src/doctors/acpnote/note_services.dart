@@ -1,6 +1,6 @@
 import 'dart:convert';
 import 'dart:io' show Platform;
-import 'package:firebase_messaging/firebase_messaging.dart';
+// import 'package:firebase_messaging/firebase_messaging.dart';
 import 'package:flutter/material.dart';
 import 'package:fluttertoast/fluttertoast.dart';
 import 'package:pmgapp/src/doctors/acpnote/note_model.dart';

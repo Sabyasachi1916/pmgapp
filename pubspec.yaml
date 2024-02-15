@@ -41,14 +41,14 @@ dependencies:
   otp_text_field: ^1.1.3
   google_maps_flutter: ^2.5.0
   geolocator: ^10.1.0
-  firebase_messaging: ^14.6.9
+  # firebase_messaging: ^14.6.9
   google_fonts: ^6.1.0
   arkit_plugin: ^1.0.7
   intl: ^0.18.1
   path_provider: ^2.1.1
   url_launcher: ^6.2.2
   flutter_widget_from_html: ^0.14.9
-  firebase_core: ^2.25.3
+  # firebase_core: ^2.25.3
   table_calendar: ^3.0.9
   provider: ^6.1.1
   

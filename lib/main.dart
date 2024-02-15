@@ -5,8 +5,8 @@ import 'package:pmgapp/login/login.dart';
 import 'package:pmgapp/src/doctors/activities/activities.dart';
 import 'package:pmgapp/src/doctors/home/dateProvider.dart';
 import 'package:pmgapp/src/doctors/home/home.dart';
-import 'package:firebase_core/firebase_core.dart';
-import 'package:firebase_messaging/firebase_messaging.dart';
+// import 'package:firebase_core/firebase_core.dart';
+// import 'package:firebase_messaging/firebase_messaging.dart';
 import 'package:pmgapp/src/doctors/info_list/info_type_list.dart';
 import 'package:provider/provider.dart';
 

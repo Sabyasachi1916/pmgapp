@@ -26,6 +26,12 @@
 	<string>$(FLUTTER_BUILD_NUMBER)</string>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>Allow us to get location so that we know at which location you are working right now</string>
+	<key>NSLocationUsageDescription</key>
+	<string>Allow us to get location so that we know at which location you are working right now</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Allow us to get location so that we know at which location you are working right now</string>
 	<key>UIApplicationSupportsIndirectInputEvents</key>
 	<true/>
 	<key>UILaunchStoryboardName</key>
@@ -34,15 +40,10 @@
 	<string>Main</string>
 	<key>UISupportedInterfaceOrientations</key>
 	<array>
-		<string>UIInterfaceOrientationPortrait</string>
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationPortraitUpsideDown</string>
 	</array>
-	<key>NSLocationUsageDescription</key>
-	<string>Allow us to get location so that we know at which location you are working right now</string>
-	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
-	<string>Allow us to get location so that we know at which location you are working right now</string>
-	<key>NSLocationWhenInUseUsageDescription</key>
-	<string>Allow us to get location so that we know at which location you are working right now</string>
 </dict>
 </plist>

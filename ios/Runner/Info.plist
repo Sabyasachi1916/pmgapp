@@ -32,8 +32,14 @@
 	<string>Allow us to get location so that we know at which location you are working right now</string>
 	<key>NSLocationWhenInUseUsageDescription</key>
 	<string>Allow us to get location so that we know at which location you are working right now</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Allow to use microphone to record your voice</string>
 	<key>UIApplicationSupportsIndirectInputEvents</key>
 	<true/>
+	<key>UIBackgroundModes</key>
+	<array>
+		<string>remote-notification</string>
+	</array>
 	<key>UILaunchStoryboardName</key>
 	<string>LaunchScreen</string>
 	<key>UIMainStoryboardFile</key>
